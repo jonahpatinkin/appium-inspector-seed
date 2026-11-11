@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Local tooling caches (not project source)
+.code-search/
+
+# Appium Inspector / replay run artifacts
+artifacts/
